@@ -14,9 +14,6 @@ Please reach out if you would like to chat or if you would like some help. 😀
 - 📫 How to reach me: https://www.linkedin.com/in/sam-espinet/
 
 
-
-
-
 <!--
 **esp688/esp688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

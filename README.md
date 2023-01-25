@@ -4,7 +4,7 @@ I'm new to software development and at times it can be overwhelming and intimida
 
 I believe that technology has the power to address many problems, particularly for small businesses. I also have a deep desire to give a helping hand to diverse communities that may not have the same opportunities as me.
 
-I am looking to be part of a work culture that encourages mentorship, where I can improve my coding skills and also be a great team player. Please reach out if you would like to chat or if you need any help.. 😀
+I am looking to be part of a work culture that encourages mentorship, where I can improve my coding skills and also be a great team player. Please reach out if you would like to chat or if you need any help. 😀
 
 ### A bit more about me: 
 - 🐣 Fun fact: Trying to become a better Barista through youtube videos.

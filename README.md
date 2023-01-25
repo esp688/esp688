@@ -11,7 +11,7 @@ I am looking to be part of a work culture that encourages mentorship, where I ca
 - 🌱 Cuurently Learning: Docker & Kubenetes. 
 - 💻 Working on: Fixing up my portfolio website
 - 📫 How to reach me: https://www.linkedin.com/in/sam-espinet/\
-- 📋 Resume: 
+- 📋 Resume: https://drive.google.com/file/d/1NeslK7EaptdPAWmqbCNzVkN5-Q_E5E_D/view?usp=share_link
 
 #### My Tech Stack 
 - HTML5 & CSS3 (sass, Bootstrap 5)

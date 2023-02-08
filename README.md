@@ -8,7 +8,7 @@ I am looking to be part of a work culture that encourages mentorship, where I ca
 
 ### A bit more about me: 
 - 🐣 Fun fact: Trying to become a better Barista through youtube videos.
-- 🌱 Cuurently Learning: Docker & Kubenetes. 
+- 🌱 Cuurently Learning: ReactJS, AWS, Docker & Kubenetes. 
 - 💻 Working on: Fixing up my portfolio website
 - 📫 How to reach me: https://www.linkedin.com/in/sam-espinet/\
 - 📋 Resume: https://drive.google.com/file/d/1NeslK7EaptdPAWmqbCNzVkN5-Q_E5E_D/view?usp=share_link
